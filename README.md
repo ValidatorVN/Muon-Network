@@ -44,7 +44,7 @@ Tiếp tục, thêm thông tin PeerID & address vừa nhận được ở bướ
 
 2/ Dùng lệnh copy file backup.env chép vào muon-node-js
 
-    docker cp backup.env muon-node:/usr/src/muon-node-js/backup.env
+    docker cp backup.env muon-node:/usr/src/muon-node-js/.env
     
 3/ Chạy lệnh khôi phục:
 
